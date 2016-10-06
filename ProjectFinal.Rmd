@@ -3,9 +3,10 @@ title: "Machine Learning Project"
 author: "JahlaJazz"
 date: "October 2, 2016"
 output:
-  html_document: default
   pdf_document:
     keep_tex: yes
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
