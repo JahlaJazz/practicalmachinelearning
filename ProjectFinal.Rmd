@@ -9,7 +9,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, eval = TRUE, cache = TRUE)
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE, cache = TRUE)
 ```
 # Excutive Summary
 
